@@ -1,4 +1,4 @@
-###Nome do projeto: Shopyy - Loja Online
+# Nome do projeto: Shopyy - Loja Online
 Descrição do projeto: Desenvolvimento de um e-commerce com cadastro de usuários, produtos, carrinho de compras e tela de administrador.
 Tecnologias utilizadas: React, Redux Toolkit, Node.js, Express, MongoDB, Stripe (Pagamento)
 Entregas no 1º Bimestre
