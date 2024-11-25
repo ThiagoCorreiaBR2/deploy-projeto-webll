@@ -3,6 +3,8 @@
 Desenvolvimento de um e-commerce com cadastro de usuários, produtos, carrinho de compras e tela de administrador.
 ### Tecnologias utilizadas: 
 React, Redux Toolkit, Node.js, Express, MongoDB, Stripe (Pagamento)
+### Comandos de inicialização
+Para iniciar o projeto, execute yarn run start no no diretório frontend e yarn run build no diretório backend
 ## Entregas no 1º Bimestre
 Setup back-end (2 pontos): setup completo localmente do backend do projeto.<br>
 Criando o middleware (2 pontos): definição do middleware para lidar com as requisições via API.<br>
